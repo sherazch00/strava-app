@@ -2,9 +2,13 @@
 Authenticate with Strava API and download activities overview and detailed streams for each activity.
 
 ---
+
 ## For Detailed Step-by-Step Guide for Setting up in AWS:
-    - Read [a relative link](SarosFit_Strava-App.pdf)
-    - Watch [a link](https://www.youtube.com/watch?v=hJLA_NPalJw)
+
+[Read SarosFit_Strava-App.pdf](SarosFit_Strava-App.pdf)
+
+[Watch YouTube Video](https://www.youtube.com/watch?v=hJLA_NPalJw)
+
 ---
 
 ## Download Activity Summary and Details from Strava
